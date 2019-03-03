@@ -93,6 +93,8 @@ void SortInsertNode(Node ** head, int data) {
 
 
 
+
+
 void main() {
 	Node *head = NULL;
 	Node *searchNode;
@@ -115,7 +117,7 @@ void main() {
 	
 	//오류 1. 20에 데이터를 삭제 할 경우 출력이 안됨.
 	//sortInsertNode가 실행이 안됨.
-	AddFrontNode(&head, 20, 7);
+	AddFrontNode(&head, 10, 7);
 	DisplayNode(head);
 	
 	DeleteNode(&head, 20);

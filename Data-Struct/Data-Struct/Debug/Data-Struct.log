@@ -1,3 +1,4 @@
-﻿  Linked-List-(Singly Linked List).c
-c:\users\kooda\onedrive\바탕 화면\data-structure\data-struct\data-struct\linked-list-(singly linked list).c(24): warning C4716: 'DisplayNode': 값을 반환해야 합니다.
-  Data-Struct.vcxproj -> C:\Users\kooda\OneDrive\바탕 화면\Data-Structure\Data-Struct\Debug\Data-Struct.exe
+﻿  Linked-List-(Doubly Linked List).c
+c:\users\kooda\onedrive\바탕 화면\c language study\data-struct\data-struct\linked-list-(doubly linked list).c(13): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\kooda\onedrive\바탕 화면\c language study\data-struct\data-struct\linked-list-(doubly linked list).c(92): warning C4013: 'free'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Data-Struct.vcxproj -> C:\Users\kooda\OneDrive\바탕 화면\C Language Study\Data-Struct\Debug\Data-Struct.exe
