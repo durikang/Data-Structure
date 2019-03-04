@@ -1,3 +1,4 @@
-﻿  원형 연결 리스트(단순).c
-c:\users\kooda\onedrive\바탕 화면\c language study\data-struct\data-struct\원형 연결 리스트(단순).c(33): warning C4716: 'DisplayNode': 값을 반환해야 합니다.
+﻿  Stack-배열.c
+c:\users\kooda\onedrive\바탕 화면\c language study\data-struct\data-struct\stack-배열.c(23): warning C4098: 'Pop': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\kooda\onedrive\바탕 화면\c language study\data-struct\data-struct\stack-배열.c(24): warning C4098: 'Pop': 'void' 함수에서 값을 반환하고 있습니다.
   Data-Struct.vcxproj -> C:\Users\kooda\OneDrive\바탕 화면\C Language Study\Data-Struct\Debug\Data-Struct.exe
