@@ -1,4 +1,2 @@
-﻿  Stack-배열.c
-c:\users\kooda\onedrive\바탕 화면\c language study\data-struct\data-struct\stack-배열.c(23): warning C4098: 'Pop': 'void' 함수에서 값을 반환하고 있습니다.
-c:\users\kooda\onedrive\바탕 화면\c language study\data-struct\data-struct\stack-배열.c(24): warning C4098: 'Pop': 'void' 함수에서 값을 반환하고 있습니다.
-  Data-Struct.vcxproj -> C:\Users\kooda\OneDrive\바탕 화면\C Language Study\Data-Struct\Debug\Data-Struct.exe
+﻿  Queue-배열.c
+  Data-Struct.vcxproj -> C:\Users\atents\Desktop\Data-Structure\Data-Struct\Debug\Data-Struct.exe
