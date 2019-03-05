@@ -41,7 +41,7 @@ int Dequeue(Queue *cq) {
 		printf("언더 플로우\n");
 		return -1;
 	}
-	cq->front = NextPosIdx(cq->front);
+	cq->front = NextPosIdx(cq->front+1);
 	return cq->queueArea[cq->front];
 
 }

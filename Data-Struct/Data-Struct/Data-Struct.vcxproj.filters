@@ -39,5 +39,8 @@
     <ClCompile Include="Queue-배열.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Queue-LinkLIst.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
