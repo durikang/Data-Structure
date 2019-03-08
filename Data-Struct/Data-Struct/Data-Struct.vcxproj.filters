@@ -45,5 +45,8 @@
     <ClCompile Include="BINARY SEARCH TREE.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Graph-인접행렬.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
